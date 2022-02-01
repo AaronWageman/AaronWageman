@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- I'm studying at Northwest Missouri State 
+- I'm currently working on remaking the popular wordle game
+- I'm currently learning JavaScript and improving in Java
+
 <!--
 **AaronWageman/AaronWageman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
